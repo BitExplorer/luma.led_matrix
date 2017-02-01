@@ -4,7 +4,7 @@ ChangeLog
 +------------+------------------------------------------------------------------------+------------+
 | Version    | Description                                                            | Date       |
 +============+========================================================================+============+
-| *Upcoming* | *TBC*                                                                  |            |
+| *Upcoming* | * Alternative WS2812 low level implementation                          |            |
 +------------+------------------------------------------------------------------------+------------+
 | **0.5.2**  | * Add apostrophe representation to seven-segment display               | 2017/02/19 |
 |            | * Deprecate ``luma.led_matrix.legacy`` (moved to ``luma.core.legacy``) |            |
